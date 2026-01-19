@@ -1,0 +1,8 @@
+PORT SCAN REPORT
+Target: scanme.nmap.org
+Scan Time: 2026-01-15 19:16:07.727193
+
+Port 22 is OPEN
+Port 80 is OPEN
+
+Scan Completed.
